@@ -1,0 +1,9 @@
+clear cache and restart the server
+
+I ran the following commands:
+
+php artisan config:cache
+
+php artisan config:clear
+
+php artisan serve - restarted the server
